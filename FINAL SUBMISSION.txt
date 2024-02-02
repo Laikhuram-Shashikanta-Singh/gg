@@ -1,0 +1,119 @@
+Documents Required For Final Viva Voce
+
+Required Documents  [ Soft copy ]
+1. Final Report 
+2. Weekly Report Diary
+3. Presentation PPT
+4. Passport Size Photo 
+5. Snapshot of Alumni Portal Registration
+6. Internship Completion Certificate
+7. No dues Clearance Certificate 
+8. Offer Letter 
+
+
+Hard Copy 
+	2 Copy of  Final Report 	
+	2 Copy Passport Size Photo
+	1 Copy of Internship Offer Letter
+	1 Copy of Project Detail 
+	1 Copy of No dues Clearance Certificate
+
+
+
+
+
+SYNOPSIS:-----
+
+Follow this as Synopsis format:
+Title
+Introduction
+Motivation
+Objective
+Methodology
+Members
+Roles
+Modules 
+Software
+Learning Curve
+Process Model
+Conclusion 
+References
+
+Process Model includes development approach viz Top Down, Bottom Up, Sandwich etc,  SRS part includes story boarding with RDBMS design, Database Schema, Data Dictionary, Schema Diagram, ER Model, Data Flow Diagram,  OR other way with Sequence Activity, State Transition Diagram, Use Case Diagram, General Flow Diagram, Agile/ SCRUM/ Waterfall/ Iterative approaches etc.
+
+
+
+
+
+
+
+
+
+
+FINAL PROJECT SUBMISSION FORMAT:-------
+
+Final Project /Internship Report format
+Project/Internship Report format:
+Cover Page with title
+Followed by logo on left side
+ Student name reg no submitted in partial fulfillment of MCA to dept name
+Internal guide left side bottom and Industry guide on right side bottom
+Same page continued inside as first page then 
+Internship Completion Certificate
+Acknowledgement
+Contents
+List of figures
+List of tables
+Introduction with title
+Motivation
+Objectives
+Methodology
+Role performed by member
+Modules 
+Hardware/Software used
+Learning Curve
+Process Models see down for what to expect
+Design content see down for what to expect
+Coding optional
+Screenshots
+Testing and test plans
+Conclusion and Future enhancements
+References
+
+Process Model includes development approach viz Top Down, Bottom Up, Sandwich etc, 
+Design includes RDBMS design, Database Schema, Data Dictionary, Schema Diagram, ER Model, Data Flow Diagram OR then UML diagrams like Sequence, Activity, State Transition Diagram, Use Case Diagram, General Flow Diagram, 
+Also an indication on Agile/ SCRUM/ Waterfall/ Iterative approaches based on what is applicable for each one of students 
+In case work assigned is less or miniscule as has been advised in some panels to some  students then such students have to put learning curve so far in separate chapters thankyou 🙏🙏🙏🙏
+
+
+
+In addition to this documents to be carried by students and submitted to respective guides 👇👇👇
+
+____Reminder____
+Checklist of documents that students should submit in a folder to or to be received from students by internal guides before final Viva Voce
+1.Internship completion letter with seal and signature of company.
+2.Internship feedback from industry mentor also sometimes called project diary.
+3.Final Report
+4.PPT
+5.Passport size color photo to be submitted to our dept office soft copy
+6.No dues and no backlog status (slcm-application-no due) 
+7.Job offer letter if placed to be uploaded in SLCM and copy to internal guide too.
+8.Make sure that student  has registered himself/herself in new Alumini Portal link already sent 
+9.Weekly project progress report and project diary
+10.On day of Viva Voce after process graduate survey form and exit survey form to be filled
+11. Corrected final report after incorporating changes suggested by internal guide from time to time.
+
+ Before giving the final viva students must have
+>got their project report verified and  cleared with their respective internal guides known to all students
+> Submit the weekly reports and project diary thing their external guide feedback etc to Internal guides optional but better if they get could be ignored if not got
+>Get themselves registered through Manipal.edu Alumni portal and make sure they have no dues to be paid financially 
+
+>Send soft copy of report in template format attached above
+>Send snapshot of no dues to internal guide and registering as Alumni using their linkedin credentials
+
+>Send their Internship completion certificate
+
+>Send soft copy of their joining to Internal guide without fail before hand
+
+
+and to be on safer side get along two passport size photograph also in soft copy
